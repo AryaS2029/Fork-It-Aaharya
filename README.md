@@ -9,6 +9,7 @@ The Problem :
 - Focus only on calories
 - Shame cravings
 - Assume perfect grocery access
+  
 Women’s nutritional needs shift across-
 - Menstrual phases
 - Pregnancy
@@ -17,6 +18,7 @@ Women’s nutritional needs shift across-
 Yet no food companion truly adapts to this complexity.
 
 The Solution :
+
 Aaharya is a zero-guilt, phase-aware food companion that:
 - Adapts to menstrual phase and life stage
 - Keeps preferred flavors (spicy, comforting, tangy)
